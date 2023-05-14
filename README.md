@@ -1,2 +1,2 @@
 # chess-engine
-chess engine to learn python
+My first ever python project, the only purpose was to get more familiar with the language
